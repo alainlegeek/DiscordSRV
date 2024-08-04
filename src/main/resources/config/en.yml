@@ -6,7 +6,7 @@ ConfigVersion: ${version}
 
 # Bot token; don't know what this is? Look at the video on the plugin page for instructions
 # You must restart your server after changing this option
-BotToken: "BOTTOKEN"
+BotToken: "MTI2OTYzOTUzNDg0OTY4NzcwOA.GM4Bfq.lki-fyZsY5xw_rGEqB0qRArkHsVEOLVojd2kKI"
 
 # The proxy to be used for Discord
 # Leave this alone if you don't understand what it does
@@ -34,10 +34,10 @@ ProxyPassword: "PASSWORD"
 #
 # The first part of channel pairs is not the Discord channel name!
 # Run "/discord reload" after changing this option to apply
-Channels: {"global": "000000000000000000"}
+Channels: {"global": "1263576792921276427"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: "1269651092027998221"
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
 DiscordInviteLink: "https://discord.gg/changethisintheconfig.yml"
